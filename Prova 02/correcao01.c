@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define N 100
  
 int main() {
     int n, i, j, **m;
