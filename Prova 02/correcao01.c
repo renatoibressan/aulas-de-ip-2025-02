@@ -17,6 +17,7 @@ int main() {
         if (media[i] > maior) maior = media[i];
         if (media[i] < menor) menor = media[i];
         printf("Aluno %d: %.1lf\n", i + 1, media[i]);
+        free(*m);
     }
     printf("Maior: %.1lf, Menor: %.1lf\n", maior, menor);
     free(m);
