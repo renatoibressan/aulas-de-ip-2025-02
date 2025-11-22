@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #define CURSOMAX 105
-
+// Cursos - Versão 2
 typedef struct curso {
     int code;
     float cred;
