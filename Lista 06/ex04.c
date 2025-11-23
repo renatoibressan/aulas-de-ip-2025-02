@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-
+// Vetores Ordenados
 typedef struct ponto {
     double u, x, y, z;
     double soma, norma;
