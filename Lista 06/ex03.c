@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+// Tradutor do Papai Noel
 char *paises[24] = { "brasil", "alemanha", "austria", "coreia", "espanha", "grecia", "estados-unidos",
 			"inglaterra", "australia", "portugal", "suecia", "turquia", "argentina", "chile",
 			"mexico", "antardida", "canada", "irlanda", "belgica", "italia", "libia", "siria",
