@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+// Frações Equivalentes
 int mdc(int a, int b);
 
 void simplify(int *n, int *d);
