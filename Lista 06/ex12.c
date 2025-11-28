@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+// Números Racionais
 typedef struct tRacional {
     int a, b;
 } racionais;
