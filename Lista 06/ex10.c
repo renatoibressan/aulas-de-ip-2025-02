@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+// Soma e Subtração de Polinômios
 typedef struct polinomio {
     float coef;
     int exp;
